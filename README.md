@@ -2,7 +2,7 @@
 
 This is API searching for products.
 
-Based on [SearchShops.com](https://SearchShops.com/) price comparison website.
+Based on [SearchShops.com](https://SearchShops.com/) - New clothes collections arrived today!
 
 This API allows to search products using REST API.
 Please obtain API key before using.
