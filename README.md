@@ -1,4 +1,4 @@
-# SearchShops.com price comparison
+# SearchShops.com - New clothes collections arrived today!
 
 This is API searching for products.
 
