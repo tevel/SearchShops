@@ -19,4 +19,5 @@ Related links:
 [Fashion blog](https://searchshops.blog/),
 [Fashion blog](https://searchshops.livejournal.com/),
 [Fashion blog](https://searchshops-clothing-fashion.blogspot.com/),
-[Fashion blog](https://searchshops.gonevis.com/).
+[Fashion blog](https://searchshops.gonevis.com/),
+[Floral Dresses](https://www.shopplax.com/blossom-up-your-style/).
