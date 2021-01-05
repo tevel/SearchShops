@@ -21,4 +21,5 @@ Related links:
 [Fashion blog](https://searchshops-clothing-fashion.blogspot.com/),
 [Fashion blog](https://searchshops.gonevis.com/),
 [Floral Dresses](https://www.shopplax.com/blossom-up-your-style/),
-[Rss feed](https://alltop.com/my/SearchShops).
+[Rss feed](https://alltop.com/my/SearchShops),
+[SearchShops magazine](https://flipboard.com/@searchshops/clothing-fashion-searchshops-l4q8tu3ly).
